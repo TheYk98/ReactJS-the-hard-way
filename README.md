@@ -22,10 +22,12 @@ A dedicated repository for React JS Tutorials for a noob, By a Absolute noob . C
 # Let's Build a Tic Tac Toe 
 Let's start with installing dependencies for react app. 
 ##### Make sure you've Node js pre installed
-```$ npx create-react-app <Your app name>
+```
+$ npx create-react-app <Your app name>
 ```
 
 This command will include the necessary react dependencies to your PC
 ``` 
-NOTE : NPM has a bug if your Computer identifier has space between (Ex <firstname><space><last name>, you'll get an error.
+NOTE : NPM has a bug if your Computer identifier has space between (Ex <firstname><space><last name>,
+you'll get an error.
 ```
